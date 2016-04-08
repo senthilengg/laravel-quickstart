@@ -73,7 +73,7 @@ Side note : Laravel supportsMySQL,Postgres,SQLite,SQL Server.
 You can find .env file in your laravel root path if you are installed using composer else rename .env.example to .env then configure your database details.
 >all set to access DB now.
 
-Now lets change the update function top accept request
+Now lets update the index function to accept request
 ```
 #https://github.com/senthilengg05/laravel-quickstart/blob/master/app/http/Controllers/Books/SearchController.php
 
@@ -163,16 +163,3 @@ Laravel by default tries to update the timestamps of updation creation in the ta
 Similarly you can self learn joins,insert,update and json response for ajax calls from the features that has been provided in this repoository.
 
 *Enjoy coding with laravel. Please rate my repository if you feel its worth doing so :)*
-
-
-
-
-
-
-
-
-
-
-
-
-
