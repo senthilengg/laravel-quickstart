@@ -58,7 +58,7 @@ Laravel uses a template engine called blade. Given that the template files needs
   }
 ```
 
-Now hit http://<your_localhost>/<laravel_path>/search should render laravel welcome page.
+Now hit http://localhost/laravel_path/search should render laravel welcome page.
 >if success
 
 Import the database in your localhost. Database can be found in the DB folder provided.
